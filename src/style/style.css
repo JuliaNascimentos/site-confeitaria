@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    justify-content: center;
+    display: flex;
+}
+
+.imagem{
+    justify-content: center;
+    display: flex;
+    height: 200px;
+    width: 490px;
+    margin: 0 auto;
+    display: block;
+
+}
+
+.parte_superior{
+    border-bottom: 5px solid #e7ddc2;
+    background-color: #f2e8cf;
+}
+
+.barra{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #432818;
+    background-color: #432818;
+    background-image: url(../img/redes_sociais.png);
+    background-repeat: no-repeat;
+    background-position: 0%;
+}
+
+.chocolates,.formas,.bicos,.embalagens,.insumos,.tematicos,.utensilios{
+    padding-right: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.destaque{
+    justify-content: center;
+    display: flex;
+    color: #99582A;
+    margin-top: 20px;
+    margin-right: 75px;
+}
+
+.bolo_foto,.salgado,.cone{
+    border: 10px solid transparent;
+    border-radius: 80px;
+    margin-left: 200px;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 25px;
+}
+
+.preco_salgado,.preco_cone,.preco_bolo{
+    margin-left: 200px;
+    background-color: palevioletred;
+    height: 34px;
+    width: 185px;
+    justify-content: center;
+    display: flex ;
+    float: left;
+    border: 2px solid transparent;
+    border-radius:20px;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+.salgado{
+    height: 190px;
+    width: 186px;
+}
+
+.preco_salgado,.preco_cone{
+    margin-left: 210px;
+}
