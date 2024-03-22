@@ -1,4 +1,4 @@
-
+# Bem-vindo ao meu projeto baseado em sites de confeitarias!!!
 
 Meu projeto é um site com interface simples e fácil de se utilizar. Tudo utilizando apenas HTML e CSS, é apenas um protótipo que serviu de aprendizado.
 
